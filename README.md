@@ -27,7 +27,9 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/romario-hornburg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -36,6 +38,6 @@
 
 ###
 
-<p align="left">✨ Sou um profissional de Tecnologia da Informação com foco em programação em Java e desenvolvimento de sistemas robustos. <br><br>💼 Trabalhei em diversas áreas da TI, desde vendas de produtos de informática até otimização de processos e docência. Essas experiências fortaleceram minha habilidade em resolver problemas e otimizar procedimentos.<br><br>🚀 Estou sempre em busca de novos desafios, procurando oportunidades que me permitam simplificar complexidades e aumentar a agilidade através da tecnologia. Acredito no crescimento contínuo e no aprendizado constante.<br><br>💡 Com anos de experiência em educação, desenvolvi uma abordagem que me permite comunicar de maneira clara e eficaz, tornando os temas técnicos acessíveis para todos.<br><br>🔍 Atualmente, estou focado em me especializar cada vez mais no desenvolvimento de sistemas back-end. Meu objetivo é aplicar minhas habilidades em resolução de problemas para criar soluções inovadoras que beneficiem equipes e organizações.</p>
+<p align="left">✨ Sou um profissional de Tecnologia da Informação com foco em programação back-end Java e desenvolvimento de sistemas robustos. <br><br>💼 Trabalhei em diversas áreas da TI, desde vendas de produtos de informática até otimização de processos e docência. Essas experiências fortaleceram minha habilidade em resolver problemas e otimizar procedimentos.<br><br>🚀 Estou sempre em busca de novos desafios, procurando oportunidades que me permitam simplificar complexidades e aumentar a agilidade através da tecnologia. Acredito no crescimento contínuo e no aprendizado constante.<br><br>💡 Com anos de experiência em educação, desenvolvi uma abordagem que me permite comunicar de maneira clara e eficaz, tornando os temas técnicos acessíveis para todos.<br><br>🔍 Atualmente, estou focado em me especializar cada vez mais no desenvolvimento de sistemas back-end. Meu objetivo é aplicar minhas habilidades em resolução de problemas para criar soluções inovadoras que beneficiem equipes e organizações.</p>
 
 ###
